@@ -6,3 +6,10 @@ body{
     background-color: #a3a9d7;
     text-align: justify;
 }
+
+.custom-list {
+    list-style-type: square; /* Example: square bullets */
+    color: blue; /* Text color */
+    padding-left: 20px; /* Adjust padding as needed */
+    /* Add more styling as needed */
+  }
