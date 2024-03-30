@@ -13,3 +13,7 @@ body{
     padding-left: 20px; /* Adjust padding as needed */
     /* Add more styling as needed */
   }
+
+img {
+    border-radius:8px;
+}
